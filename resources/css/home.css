@@ -36,7 +36,7 @@
 .content-for-home .img-container {
     width: 400px;
     height: 400px;
-    background: url("../img/home_logo_bg_hero.png") no-repeat top left;
+    background: url("../img/teju_icon-removebg-preview.png") no-repeat top left;
     background-size: cover;
 }
 
@@ -214,7 +214,7 @@
     .content-for-home .img-container {
         width: 200px;
         height: 200px;
-        background: url(../img/home_logo_bg_hero.png) no-repeat top left;
+        background: url(../img/teju_icon-removebg-preview.png) no-repeat top left;
         background-size: cover;
     }
 }
